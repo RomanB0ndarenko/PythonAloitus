@@ -1,2 +1,2 @@
 # PythonAloitus
-Ensimmäiset Python harjoitukset 
+Ensimmäiset Python harjoitukset. Työkälujen asennuksista tarkenpaa tieto tämän repossitorion Wiki -sivulla
